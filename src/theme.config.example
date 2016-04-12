@@ -18,59 +18,59 @@
 */
 
 /* Global */
-@site       : 'default';
-@reset      : 'default';
+@site       : 'bannerwise';
+@reset      : 'bannerwise';
 
 /* Elements */
-@button     : 'default';
-@container  : 'default';
-@divider    : 'default';
-@flag       : 'default';
-@header     : 'default';
-@icon       : 'default';
-@image      : 'default';
-@input      : 'default';
-@label      : 'default';
-@list       : 'default';
-@loader     : 'default';
-@rail       : 'default';
-@reveal     : 'default';
-@segment    : 'default';
-@step       : 'default';
+@button     : 'bannerwise';
+@container  : 'bannerwise';
+@divider    : 'bannerwise';
+@flag       : 'bannerwise';
+@header     : 'bannerwise';
+@icon       : 'bannerwise';
+@image      : 'bannerwise';
+@input      : 'bannerwise';
+@label      : 'bannerwise';
+@list       : 'bannerwise';
+@loader     : 'bannerwise';
+@rail       : 'bannerwise';
+@reveal     : 'bannerwise';
+@segment    : 'bannerwise';
+@step       : 'bannerwise';
 
 /* Collections */
-@breadcrumb : 'default';
-@form       : 'default';
-@grid       : 'default';
-@menu       : 'default';
-@message    : 'default';
-@table      : 'default';
+@breadcrumb : 'bannerwise';
+@form       : 'bannerwise';
+@grid       : 'bannerwise';
+@menu       : 'bannerwise';
+@message    : 'bannerwise';
+@table      : 'bannerwise';
 
 /* Modules */
-@accordion  : 'default';
-@checkbox   : 'default';
-@dimmer     : 'default';
-@dropdown   : 'default';
-@embed      : 'default';
-@modal      : 'default';
-@nag        : 'default';
-@popup      : 'default';
-@progress   : 'default';
-@rating     : 'default';
-@search     : 'default';
-@shape      : 'default';
-@sidebar    : 'default';
-@sticky     : 'default';
-@tab        : 'default';
-@transition : 'default';
+@accordion  : 'bannerwise';
+@checkbox   : 'bannerwise';
+@dimmer     : 'bannerwise';
+@dropdown   : 'bannerwise';
+@embed      : 'bannerwise';
+@modal      : 'bannerwise';
+@nag        : 'bannerwise';
+@popup      : 'bannerwise';
+@progress   : 'bannerwise';
+@rating     : 'bannerwise';
+@search     : 'bannerwise';
+@shape      : 'bannerwise';
+@sidebar    : 'bannerwise';
+@sticky     : 'bannerwise';
+@tab        : 'bannerwise';
+@transition : 'bannerwise';
 
 /* Views */
-@ad         : 'default';
-@card       : 'default';
-@comment    : 'default';
-@feed       : 'default';
-@item       : 'default';
-@statistic  : 'default';
+@ad         : 'bannerwise';
+@card       : 'bannerwise';
+@comment    : 'bannerwise';
+@feed       : 'bannerwise';
+@item       : 'bannerwise';
+@statistic  : 'bannerwise';
 
 /*******************************
             Folders

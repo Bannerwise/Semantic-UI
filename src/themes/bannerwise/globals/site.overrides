@@ -1,0 +1,18 @@
+/*******************************
+        Global Overrides
+*******************************/
+.ui.list.left.aligned {
+  text-align: left;
+}
+.ui.list .advertised.items {
+  padding-left: 10px;
+}
+.ui.list .advertised.items.orange {
+  border-left: 4px solid #fb8c00;
+}
+.ui.list .advertised.items.green {
+  border-left: 4px solid #7cb342;
+}
+.ui.list .advertised.items.blue {
+  border-left: 4px solid #00cbe7;
+}
